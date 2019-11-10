@@ -1,0 +1,981 @@
+Coche,Ubicacion,Combustible,CV,Anno,Kilometros,Precio
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
+Fiat 500X  1.3Mjt Pop Star,Madrid,Diesel,95,2017,51.142,10.990
+Mazda Mazda6  2.2DE Style,Madrid,Diesel,150,2015,131.000,12.500
+Bmw Serie 7 750iA,Madrid,Gasolina,450,2014,37.000,46.900
+Mercedes Vito  Furgon 111CDI,"Rioja, La",Diesel,114,2017,77.490,14.800
+Bmw X3  sDrive 18d,Madrid,Diesel,150,2016,78.000,22.250
+Opel Corsa  1.4 S-S 120,Burgos,Gasolina,90,2019,1,9.800
+Mercedes Clase S 500 Coupe,Barcelona,Gasolina,320,1995,235.987,6.995
+Mercedes Clase B B 180CDI BE,Cadiz,Diesel,109,2014,85.489,13.500
+Audi Q3  2.0TDI Sport edition,Madrid,Diesel,150,2015,49.000,20.500
+Mercedes Clase GLA 200d Urban,Madrid,Diesel,136,2017,75.235,21.900
+Seat Ateca  1.4 EcoTSI S&S,Zaragoza,Gasolina,150,2017,37.818,17.900
+Smart Fortwo  Coupe 66,"Rioja, La",Gasolina,90,2019,1.000,12.500
+Fiat Tipo  1.4 T-Jet Lounge,Valencia,Gasolina,120,2019,0,12.998
+Opel Insignia  1.5 T XFT S&S,Burgos,Gasolina,166,2019,1,22.900
+Mercedes Clase SL 500 Aut.,Madrid,Gasolina,306,2002,145.000,12.999
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Nissan Qashqai  1.5dCi Tekna,Barcelona,Diesel,110,2017,29.638,15.985
+Toyota Auris  1.6 VVT-i Luna,Barcelona,Gasolina,124,2007,140.000,4.200
+Bmw X3  xDrive 20dA,Madrid,Diesel,190,2015,85.000,23.750
+Mercedes Clase A A 200d 7G-DCT,Madrid,Diesel,136,2016,28.000,20.995
